@@ -2,3 +2,19 @@ section > img {
     width: 22rem;
     border-radius: 20px;
 }
+body {
+    background-color: aqua;
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header, nav, main, footer {
+    padding: 2rem;
+}
+nav ul {
+        list-style: none;
+}
